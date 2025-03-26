@@ -10,8 +10,8 @@ With `Sofi`, you can:
 
 Whether you're managing files, debugging code, or just exploring data, `Sofi` elevates your experience with its modern take on a classic command-line tool.
 ## New Update
-Add `-m` for multi file
-add `.` for read all file in wd
+- Add `-m` for multi file
+- Add `.` for read all file in wd
 
 ## Tags
 - `#Linux`
