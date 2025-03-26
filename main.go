@@ -40,7 +40,7 @@ func main() {
 			data, _ := os.ReadFile(file.Name())                                                                                                           // read the file contents
 			fmt.Println(colorYellow, file.Name(), colorReset, colorGreen, "\nstart->(\n", colorReset, string(data), colorGreen, "\n)\n<-end", colorReset) // print the file contents
 		}
-	} else if os.Args[1] == "-m" { // working this is a bug (multi args reading file)
+	} else if os.Args[1] == "-m" { // multi args reading file
 		for _, arg := range os.Args[2:] { // iterate over the arguments
 			file, err := os.ReadFile(arg)
 			if err != nil {
