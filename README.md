@@ -9,6 +9,10 @@ With `Sofi`, you can:
     Enjoy an intuitive and user-friendly interface, perfect for everyday tasks.
 
 Whether you're managing files, debugging code, or just exploring data, `Sofi` elevates your experience with its modern take on a classic command-line tool.
+## New Update
+Add `-m` for multi file
+add `.` for read all file in wd
+
 ## Tags
 - `#Linux`
 - `#CommandLineTool`
